@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <tabs>
+        <tab
+            id="@+id/tab_map"
+            icon="@drawable/ic_map_black_24dp"
+            title="map" />
+        <tab
+            id="@+id/tab_nearby"
+            icon="@drawable/ic_nearby"
+            title="near by" />
+        <tab
+            id="@+id/tab_search"
+            icon="@drawable/ic_search_black_24dp"
+            title="search" />
+    </tabs>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#16A085</color>
+    <color name="colorPrimaryDark">#16A085</color>
+    <color name="colorAccent">#ffffff</color>
+    <color name="themeColor">#16A085</color>
+    <color name="whiteColor">#ffffff</color>
+    <color name="lineColor">#c4c4c4</color>
+    <color name="checkColor">#707070</color>
+    <color name="grayTextColor">#5e5e5e</color>
+    <color name="transparentColor">#00000000</color>
+    <color name="progressTintColor">#ffd900</color>
+    <color name="checkedColor">#F1C40F</color>
+    <color name="unCheckedColor">#E0E0E0</color>
+    <color name="blackColor">#000000</color>
+</resources>
