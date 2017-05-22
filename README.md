@@ -6,9 +6,8 @@ server address: https://github.com/hyunhye/ServiceAreaStamp
 - 휴게소 이용에 있어 편리함을 주기 위해 휴게소 상세 정보 제공
 - 사용자가 직접 후기를 작성하여 휴게소의 개선 가능성 향상
 
-개발 환경:	Android Studio
-
-1. Front-end:	Java, Android
-2. Back-end:	nodeJS
-3. DB:	MySQL
-4. 라이브러리:	Retrofit (HTTP REST API)
+1. 개발 환경:	Android Studio
+2. Front-end:	Java, Android
+3. Back-end:	nodeJS
+4. DB:	MySQL
+5. 라이브러리:	Retrofit (HTTP REST API)
